@@ -1,0 +1,20 @@
+#center {
+    padding:30px;
+}
+span {
+    float:right;
+}
+td {
+    width:300px;
+    padding:5px;
+}
+h1 {
+    color:blue;
+}
+td:hover {
+    background:blue;
+    color:white;
+}
+h3 {
+    color:grey;
+}
